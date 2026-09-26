@@ -6,4 +6,4 @@ Major / program: Data Science and Analytics
 
 Favorite dataset or industry interest: Insurance
 
-One reason I am studying analytics:
+One reason I am studying analytics: I enjoy data analytics and want to pursue a career in it
