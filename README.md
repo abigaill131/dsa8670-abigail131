@@ -73,3 +73,15 @@ By the end of Week 5, you should be able to:
 ## License
 
 This repository uses the MIT License (see `LICENSE`).
+
+---
+
+# Part 3 - Branching and Pull Request Paragraph
+
+Version control is important for analytics because projects often change over 
+time as data is cleaned, updated, and results are revised. GitHub 
+keeps a history of these changes through commits, which makes it possible to see 
+what changed and return to an earlier version if needed. This week’s readings 
+also mentioned how branches allow people to make changes without disrupting the 
+main version of a project. This can be helpful if multiple 
+analysts are working on different parts of the same project.
