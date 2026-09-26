@@ -4,6 +4,6 @@ Name: Abigail Lefler
 
 Major / program: Data Science and Analytics
 
-Favorite dataset or industry interest:
+Favorite dataset or industry interest: Insurance
 
 One reason I am studying analytics:
